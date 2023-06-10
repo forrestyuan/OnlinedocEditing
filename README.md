@@ -13,7 +13,7 @@ This project introduces how to use React and Socket.io to implement online docum
 
 > 3. 进入server目录： `node index.js`
 
-> 4. 进入my-app目录： `yarn start`
+> 4. 进入front目录： `yarn start`
 
 > 5. 在浏览器打开 `localhost:3000`
 
